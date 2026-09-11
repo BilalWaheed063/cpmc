@@ -1,0 +1,70 @@
+{
+  "assets": [
+    {
+      "file": "campus.jpg",
+      "role": "Campus hero",
+      "source_page": "https://www.cpmc.edu.pk/",
+      "original_url": "https://www.cpmc.edu.pk/wp-content/uploads/2022/09/DJI_0017.jpg",
+      "description": "Official aerial photograph of the Central Park Medical College campus; college name is visible on the right-hand building.",
+      "crop_note": "Wide 2.03:1 composition. Avoid large upscaling; the official source is 1024 pixels wide.",
+      "local_path": "public/assets/campus.jpg",
+      "width": 1024,
+      "height": 504,
+      "mode": "RGB",
+      "bytes": 220838,
+      "visually_inspected": true
+    },
+    {
+      "file": "learning.jpg",
+      "role": "Medical learning",
+      "source_page": "https://www.cpmc.edu.pk/admissions-faqs/",
+      "original_url": "https://www.cpmc.edu.pk/wp-content/uploads/2023/08/IMG_8009-scaled.jpg",
+      "description": "Five people in white coats examining medical teaching specimens in the college pathology/anatomy museum.",
+      "crop_note": "3:2 composition. Central standing students remain visible with a moderate landscape crop.",
+      "local_path": "public/assets/learning.jpg",
+      "width": 2560,
+      "height": 1707,
+      "mode": "RGB",
+      "bytes": 408408,
+      "visually_inspected": true
+    },
+    {
+      "file": "life.jpg",
+      "role": "Student community / clinical campus life",
+      "source_page": "https://www.cpmc.edu.pk/admissions-faqs/",
+      "original_url": "https://www.cpmc.edu.pk/wp-content/uploads/2023/08/AK_L4443-scaled.jpg",
+      "description": "Five young clinicians in scrubs, stethoscopes and institutional ID badges at the teaching hospital entrance.",
+      "crop_note": "3:2 composition. Preserve the full group; a landscape crop centered around 55% vertical position keeps faces visible.",
+      "local_path": "public/assets/life.jpg",
+      "width": 2560,
+      "height": 1707,
+      "mode": "RGB",
+      "bytes": 522895,
+      "visually_inspected": true
+    },
+    {
+      "file": "logo.png",
+      "role": "Recommended official logo",
+      "source_page": "https://www.cpmc.edu.pk/",
+      "original_url": "https://www.cpmc.edu.pk/wp-content/uploads/revslider/slider-2/archieve-logo-300x300.png",
+      "description": "Official circular CPMC college crest published by the college and referenced by its homepage.",
+      "crop_note": "Transparent background; use without recoloring or distortion.",
+      "local_path": "public/assets/logo.png",
+      "width": 300,
+      "height": 300,
+      "mode": "RGBA",
+      "bytes": 81775,
+      "visually_inspected": true,
+      "alpha_range": [
+        0,
+        255
+      ]
+    }
+  ],
+  "reuse_info": "These are first-party assets hosted by Central Park Medical College on cpmc.edu.pk. No explicit open/Creative Commons reuse license was found on the source pages. The official website footer states \u00a9 Copyright CPMC 2022. User has supplied ownership/client-project context; this is not evidence of a separate public reuse license.",
+  "unavailable_urls": [
+    "https://www.cpmc.edu.pk/wp-content/uploads/2026/09/CPMC-logo.png",
+    "https://www.cpmc.edu.pk/wp-content/uploads/2026/09/cpmc-logo-white.png"
+  ],
+  "unavailable_reason": "Both supplied September 2026 URLs returned HTTP 404 on verification."
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "file": "poppins-regular.woff2",
+    "bytes": 7884,
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecg.woff2"
+  },
+  {
+    "file": "poppins-medium.woff2",
+    "bytes": 7748,
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2"
+  },
+  {
+    "file": "poppins-semibold.woff2",
+    "bytes": 8000,
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2"
+  }
+]
